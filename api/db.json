@@ -16,18 +16,6 @@
       "id": 3
     },
     {
-      "title": "Unexpected Behavior",
-      "description": "Didn't expect that!",
-      "userId": "102664405638512177679",
-      "id": 4
-    },
-    {
-      "title": "Programmatic Navigation",
-      "description": "I redid this one!",
-      "userId": "102664405638512177679",
-      "id": 5
-    },
-    {
       "title": "Testing Component Reuse",
       "description": "Watch me refactor some components.",
       "userId": "102664405638512177679",
